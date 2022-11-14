@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url();
+
+body{
+    background: linear-gradient(to right, #2E2E2E 0%, #000000 100%);
+}
+.about-h1{
+    color: white;
+    font-family: "Open Sans";
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-style: normal;
+    font-weight: 900px;
+    font-size: 52px;
+    line-height: 65px;
+    margin-top: 20px;
+}
+.about-box{
+    border: 2px solid #ffffff;
+    width: 200px;
+    height: 80px;
+    box-sizing: border-box;
+    border-radius: 100px;
+    color: white;
+    margin-top: 33px;
+    margin-left: 50px;
+}
+.about1{
+    color: #ffffff;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    font-family: "Open Sans";
+    margin-top: 12px;
+}
+.about-box2{
+    border: 2px solid #ffffff;
+    width: 900px;
+    height: 80px;
+    color: white;
+    margin-top: -78px;
+    margin-left: 300px;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+}
+.about-akk{
+    border: 2px solid #ffffff;
+    color: #ffffff;
+    width: 200px;
+    height: 80px;
+    border-radius: 100px;
+    margin-left: 1250px;
+    margin-top: -84px;
+}
+.navbar{
+    font-family: 'Open Sans';
+    display: flex;
+    gap: 50px;
+    margin-left: 40px;
+    margin-top: -30px;
+}
+.header-nam{
+    font-family: 'Open Sans';
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color:#ffffff;
+    padding-top: 40px;  
+    margin-top: -10px;
+    width: 121px;
+    height: 23px;
+}
+.header-prof{
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+    margin-top: 28px;
+    text-decoration: none;
+    font-family: "Open Sans";
+    margin-right: 40px;
+}
+.header-block{
+    background-color: #2E2E2E;
+    width: 280px;
+    height: 827px;
+    border-radius: 100px;
+    margin-top: 33px;
+    display: flex;
+}
+.about-box-1{
+    background-color: #2E2E2E;
+    width:700px;
+    height: 827px;
+    border-radius: 100px;
+    margin-left: 65px;
+    margin-top: 35px;
+}
+.header-on{
+    display: flex;
+    justify-content: center;
+}
+.about-hr{
+    background-color: #2E2E2E;
+    width: 280px;
+    height: 363px;
+    border-radius: 75px;
+    margin-left: 65px;
+    margin-top: 40px;
+}
+.header_1{
+    width: 234px;
+    height: 49px;
+    background-color: #ffffff;
+    border-radius: 50px;
+    margin-top: 270px;
+    margin-left: 23px;
+}
+.about_ak{
+    font-family: 'Open Sans';
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color:#2E2E2E;
+    padding: 15px 30px 15px 30px;
+}
+.header_2{
+    width: 280px;
+    height: 449px;
+    border-radius: 50px;
+    background-color: #2E2E2E;
+    margin-top:400px;
+    
+}
